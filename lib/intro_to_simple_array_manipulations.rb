@@ -42,3 +42,7 @@ def using_uniq(array)
   #using_uniq takes in an argument of an array and uses the uniq method to remove duplicate items
   return array.uniq
 end
+
+def using_flatten(array)
+
+end
