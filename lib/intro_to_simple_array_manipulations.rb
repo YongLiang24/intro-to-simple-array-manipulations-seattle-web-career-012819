@@ -34,5 +34,6 @@ def using_concat(array1, array2)
 end
 
 def using_insert(array,str)
+  #insert element on 4th index.
   return array.insert(4,str)
 end
