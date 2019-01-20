@@ -1,3 +1,4 @@
 def using_push (array, str)
-  return array.push(str)
+  array_copy= array.push(str)
+  return array_copy
 end
