@@ -48,10 +48,10 @@ return array.flatten
 end
 
 def using_delete(array, str)
-  return array.delete_at(str)
+  return array.delete(str)
 end
 
 def using_delete_at(array, int)
-  return array.delete(int)
+  return array.delete_at(int)
 
 end
