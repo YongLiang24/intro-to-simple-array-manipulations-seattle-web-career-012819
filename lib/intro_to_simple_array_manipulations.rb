@@ -37,3 +37,7 @@ def using_insert(array,str)
   #insert element on 4th index.
   return array.insert(4,str)
 end
+
+def using_uniq(array)
+  #using_uniq takes in an argument of an array and uses the uniq method to remove duplicate items
+end
